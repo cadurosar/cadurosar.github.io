@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            cadurosar
 locale:           en_US
 url:
 
@@ -41,21 +41,21 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Carlos E. Rosar K. Lassance
+  avatar: bio-photo.png
+  bio: #"Describe your self."
+  email: cadurosar at gmail dot com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: cadurosar
+  facebook: #cadurosar
   google:
-    plus: #username
+    plus: cadurosar
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: cadurosar
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
