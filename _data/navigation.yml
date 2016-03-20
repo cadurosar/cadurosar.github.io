@@ -1,7 +1,10 @@
 # Site navigation links
 
 - title: CV
-  url: /about/
+  url: /cv/
 
-- title: Posts
+- title: Blog
   url: /posts/
+
+- title: Projects
+  url: /projects/

@@ -5,9 +5,10 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
+
 </head>
 
-<body class="home">
+<body class="page">
 
 {% include _browser-upgrade.html %}
 
@@ -32,11 +33,19 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
-  <div id="index">
-    {{ content }}
-
-  </div><!-- /#index -->
-</div><!-- /#main -->
+  <article class="page">
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+      {% if page.share != false %}
+        <hr />
+      {% endif %}
+    </div><!-- /.article-wrap -->
+    {% if site.owner.disqus-shortname and page.comments == true %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
 
 <div class="footer-wrap">
   <footer>

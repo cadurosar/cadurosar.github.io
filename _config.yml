@@ -43,13 +43,13 @@ titlecase: true
 owner:
   name: Carlos E. Rosar K. Lassance
   avatar: bio-photo.png
-  bio: #"Describe your self."
+  bio: "Horrible writer, video-game aficionado and proud supporter of Coritiba F.C. Research Engineer @ Télécom Bretagne"
   email: cadurosar at gmail dot com
   disqus-shortname:
   twitter: cadurosar
   facebook: #cadurosar
   google:
-    plus: cadurosar
+    plus: #cadurosar
     analytics:
     verify:
     ad-client:
