@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            cadurosar
+title:            
 locale:           en_US
 url:
 
@@ -41,12 +41,12 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Carlos E. Rosar K. Lassance
+  name: Carlos Eduardo Rosar Kos Lassance
   avatar: bio-photo.png
   bio: "Developer, video-game aficionado and proud supporter of Coritiba F.C. Research Engineer @ Télécom Bretagne"
   email: cadurosar at gmail dot com
   disqus-shortname:
-  twitter: cadurosar
+  twitter: #cadurosar
   facebook: #cadurosar
   google:
     plus: #cadurosar
@@ -57,7 +57,7 @@ owner:
   bing-verify:
   github: cadurosar
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: carlos-eduardo-lassance
   xing: #username
   instagram: #username
   lastfm: #username
