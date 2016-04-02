@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV - Carlos Eduardo Rosar Kos Lassance
+title: Carlos Eduardo Rosar Kos Lassance
 ---
 
 Short version(résumé): 
@@ -34,8 +34,8 @@ In my time at Labbio/BioBD I worked mostly developing apps in Java and PHP for d
 `2014-15`
 MSc in Informatic Research from Télécom Bretagne: [Track: Mobile and Communicating Object-Based Systems](http://master.irisa.fr/index.php/en/). Thesis: [Distance bounding protocols on smartphones]()
 
-`2010-16`
-BSc in Computer Engineering: Double-degree program between Télécom Bretagne and PUC-RIO (Currently stopped for a one year work experience as R&D Engineer.)
+<br>`2010-16`
+BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretagne and PUC-RIO (Currently stopped for a one year work experience as R&D Engineer.)
 
 ## Publications
 
@@ -60,6 +60,14 @@ __Gambs, S., Rosar Kos Lassance, C., Onete, C.__  The Not-so-distant Future: Dis
 
 ## Awards
 
-BRAFITEC scolarship (MSc + french BSc fees)
+BRAFITEC scolarship (MSc fees)
 
 ##### Last updated: Mars 2016
+
+
+<!---
+
+<h3><a href="{{ site.url}}/cv/">CV</a></h3>
+<h3><a href="{{ site.url}}/posts/">Blog</a></h3>
+
+-->

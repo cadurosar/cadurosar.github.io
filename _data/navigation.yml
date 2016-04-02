@@ -1,10 +1,10 @@
 # Site navigation links
 
-#- title: CV
-#  url: /cv/
+- title: CV
+  url: /cv/
 
-#- title: Blog
-#  url: /posts/
+- title: Blog
+  url: /posts/
 
 #- title: Projects
 #  url: /projects/
