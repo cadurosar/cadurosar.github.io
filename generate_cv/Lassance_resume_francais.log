@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.8)  8 FEB 2017 08:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.8)  8 FEB 2017 09:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -995,8 +995,16 @@ Package pdftex.def Info: bio-photo.png used on input line 50.
 \makecvtitlepicturewidth=\skip77
 \makecvtitlenamewidth=\skip78
 \makecvinfobox=\box46
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <9> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 50.
+\makecvinfoheight=\skip79
+\leftcolumnwidth=\skip80
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <14.4> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 52.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 53.
 LaTeX Font Info:    Try loading font information for OT1+kurierlm on input line
- 50.
+ 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/kurier/ot1kurierlm.fd
 File: ot1kurierlm.fd 2005/10/03 v1.2 font definition file for OT1/kurierlm (MW)
@@ -1007,34 +1015,26 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Try loading font information for OML+kurierl on input line 
-50.
+53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/kurier/omlkurierl.fd
 File: omlkurierl.fd 2008/07/22 v0.995 font definition file for OML/kurierl (MW)
 
 )
 LaTeX Font Info:    Try loading font information for OMS+kurierl on input line 
-50.
+53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/kurier/omskurierl.fd
 File: omskurierl.fd 2008/07/22 v0.995 font definition file for OMS/kurierl (MW)
 
 )
 LaTeX Font Info:    Try loading font information for OMX+kurierl on input line 
-50.
+53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/kurier/omxkurierl.fd
 File: omxkurierl.fd 2008/07/22 v0.995 font definition file for OMX/kurierl (MW)
 
 )
-LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <9> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 50.
-\makecvinfoheight=\skip79
-\leftcolumnwidth=\skip80
-LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <14.4> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 52.
-LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
@@ -1053,22 +1053,21 @@ d.
 (rerunfilecheck)             Checksum: 6B7536C1A7F7F577C3FEA39280BDEE13;706.
  ) 
 Here is how much of TeX's memory you used:
- 18917 strings out of 493029
- 313947 string characters out of 6136235
- 387792 words of memory out of 5000000
- 22271 multiletter control sequences out of 15000+600000
- 59587 words of font info for 58 fonts, out of 8000000 for 9000
+ 18897 strings out of 493029
+ 313533 string characters out of 6136235
+ 387789 words of memory out of 5000000
+ 22252 multiletter control sequences out of 15000+600000
+ 48900 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,11n,45p,10376b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public
-/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/
-texmf/fonts/type1/public/lm/lmsso10.pfb>
-Output written on Lassance_resume_francais.pdf (1 page, 162761 bytes).
+hare/texmf/fonts/type1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public
+/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb>
+Output written on Lassance_resume_francais.pdf (1 page, 152496 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 66 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  8 named destinations out of 1000 (max. 500000)
- 15926 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 14390 words of extra memory for PDF output out of 14400 (max. 10000000)
 
