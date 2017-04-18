@@ -12,9 +12,11 @@ Short version(résumé):
 
 ## Currently ##
 
-Last semester computer engineering undergrad student at PUC-Rio 
+Last semester computer engineering undergrad student at PUC-Rio and intern at LEARN
 
 ## Experience ##
+
+`01/2017-` - Intern at LEARN developping software with Python
 
 `09/2015-09/2016` - R&D Engineer in neural networks at Télécom Bretagne in NEUCOD team
 
@@ -68,7 +70,7 @@ __Gambs, S., Rosar Kos Lassance, C., Onete, C.__  The Not-so-distant Future: Dis
 
 BRAFITEC scolarship (MSc fees)
 
-##### Last updated: February 2017
+##### Last updated: April 2017
 
 
 <!---

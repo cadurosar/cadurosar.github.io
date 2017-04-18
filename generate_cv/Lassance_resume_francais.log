@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.8)  8 FEB 2017 09:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.8)  18 APR 2017 12:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1036,18 +1036,18 @@ File: omxkurierl.fd 2008/07/22 v0.995 font definition file for OMX/kurierl (MW)
 
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 64.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 72.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 73.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./bio-photo.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 
 (./Lassance_resume_francais.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `Lassance_resume_francais.out' has not change
 d.
 (rerunfilecheck)             Checksum: 6B7536C1A7F7F577C3FEA39280BDEE13;706.
@@ -1055,7 +1055,7 @@ d.
 Here is how much of TeX's memory you used:
  18897 strings out of 493029
  313533 string characters out of 6136235
- 387789 words of memory out of 5000000
+ 387788 words of memory out of 5000000
  22252 multiletter control sequences out of 15000+600000
  48900 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1064,7 +1064,7 @@ Here is how much of TeX's memory you used:
 public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb>
-Output written on Lassance_resume_francais.pdf (1 page, 152496 bytes).
+Output written on Lassance_resume_francais.pdf (1 page, 152249 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
