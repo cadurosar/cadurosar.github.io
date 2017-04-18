@@ -36,7 +36,7 @@ In my time at Labbio/BioBD I worked mostly developing apps in Java and PHP for d
 ## Education ##
 
 `2014-15`
-MSc in Informatic Research from Télécom Bretagne: [Track: Mobile and Communicating Object-Based Systems](http://master.irisa.fr/index.php/en/). Thesis: [Distance bounding protocols on smartphones]()
+MSc in Informatic Research from Télécom Bretagne: [Track: Mobile and Communicating Object-Based Systems](http://master.irisa.fr/index.php/en/). Thesis: [Distance bounding protocols on smartphones]({{ site.url }}/rapport.pdf)
 
 <br>`2010-17`
 BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretagne and PUC-RIO (One year break working as R&D Engineer between 2015 and 2016.)
