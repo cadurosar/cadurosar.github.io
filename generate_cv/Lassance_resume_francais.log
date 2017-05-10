@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.8)  18 APR 2017 12:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.8)  10 MAY 2017 11:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -941,15 +941,15 @@ Package microtype Info: Loading generic settings for font family
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(74.68848pt, 448.1309pt, 74.68849pt)
-* v-part:(T,H,B)=(84.50467pt, 633.78513pt, 126.75705pt)
+* h-part:(L,W,R)=(71.70259pt, 454.10269pt, 71.70259pt)
+* v-part:(T,H,B)=(81.12634pt, 642.23096pt, 121.68954pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=448.1309pt
-* \textheight=633.78513pt
-* \oddsidemargin=2.41849pt
-* \evensidemargin=2.41849pt
-* \topmargin=-24.76532pt
+* \textwidth=454.10269pt
+* \textheight=642.23096pt
+* \oddsidemargin=-0.5674pt
+* \evensidemargin=-0.5674pt
+* \topmargin=-28.14365pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1042,29 +1042,29 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./bio-photo.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
 
 (./Lassance_resume_francais.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
 Package rerunfilecheck Info: File `Lassance_resume_francais.out' has not change
 d.
 (rerunfilecheck)             Checksum: 6B7536C1A7F7F577C3FEA39280BDEE13;706.
  ) 
 Here is how much of TeX's memory you used:
- 18897 strings out of 493029
- 313533 string characters out of 6136235
- 387788 words of memory out of 5000000
+ 18901 strings out of 493029
+ 313581 string characters out of 6136235
+ 387793 words of memory out of 5000000
  22252 multiletter control sequences out of 15000+600000
- 48900 words of font info for 49 fonts, out of 8000000 for 9000
+ 49102 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,11n,45p,10376b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb>
-Output written on Lassance_resume_francais.pdf (1 page, 152249 bytes).
+Output written on Lassance_resume_francais.pdf (1 page, 152306 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
