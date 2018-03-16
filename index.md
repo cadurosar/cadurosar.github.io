@@ -16,11 +16,16 @@ PHD Student at IMT Atlantique, with the theme "Intricate Learning and Storing in
 
 ## Professional Experience ##
 
-<br>`01/2017-07/2017` - Intern at the LEARN laboraty at PUC-Rio, developping software with Python for BTG Pactual
+<br>`09/2017-09/2020` - PHD Student at IMT Atlantique
+
+
+<br>`01/2017-07/2017` - Intern at the LEARN laboraty at PUC-Rio
+
+Worked in the development of the first version of the [BTG Pactual Robo Advisor](https://youtu.be/WNrkHfMsYyk?t=61)
 
 <br>`09/2015-09/2016` - R&D Engineer in neural networks at Télécom Bretagne in NEUCOD team
 
-R&D Engineer at Télécom Bretagne in NEUCOD team under the supervision of Claude Berrou, working mostly with artificial and clique-based neural networks.
+R&D Engineer at Télécom Bretagne in NEUCOD team under the supervision of Claude Berrou, working mostly with artificial and clique-based neural networks. My work at the laboratory helped the team to publish 2 papers in internacional conferences.
 
 <br>`03/2015-09/2015` - Intern at INRIA/Centrale Supéléc in CIDRE team under the supervision of Sébastien Gambs and Cristina Onete. 
 
@@ -33,8 +38,6 @@ During this period I studied distance-bounding protocols and implemented a proof
 In my time at Labbio/BioBD I worked mostly developing apps in Java and PHP for database migration and management systems 
 
 ## Teaching Experience ##
-
-<br>`09/2016-06/2017` - Teaching assistant at PUC-Rio for the [databases 101 course](http://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=INF1383).
 
 <br>`01/2012-08/2013, 09/2016-06/2017` - Teaching assistant at PUC-Rio for the [databases 101 course](http://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=INF1383).
 
@@ -54,6 +57,12 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 
 [Google Scholar Profile]()
 
+`2018`
+Coming soon
+
+`2017`
+__, MRS Marques, GB Hacene, Rosar Kos Lassance, C., PH Horrein__  	Large-Scale Memory of Sequences Using Binary Sparse Neural Networks on GPU. [High Performance Computing & Simulation (HPCS), 2017](https://conferences.telecom-bretagne.eu/turbocodes/home-2016/), July 2017, Genoa, Italy.
+
 `2016`
 __Tigreat, P., Rosar Kos Lassance, C., Jiang, X., Gripon, V., Berrou, C.__  	Assembly output codes for learning neural networks. [9th International Symposium on Turbo Codes and Iterative Information Processing](https://conferences.telecom-bretagne.eu/turbocodes/home-2016/), Sept 2016, Brest, France.
 
@@ -64,7 +73,7 @@ __Gambs, S., Rosar Kos Lassance, C., Onete, C.__  The Not-so-distant Future: Dis
 
 ## Technical skills
 
-* Python
+* Python (Incluiding frameworks such as Keras and Pytorch)
 * Java
 * Machine learning
 * LaTeX
