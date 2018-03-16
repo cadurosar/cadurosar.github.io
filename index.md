@@ -58,17 +58,17 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 [Google Scholar Profile]()
 
 `2018`
-Coming soon
+<br>Coming soon
 
 `2017`
-__, MRS Marques, GB Hacene, Rosar Kos Lassance, C., PH Horrein__  	Large-Scale Memory of Sequences Using Binary Sparse Neural Networks on GPU. [High Performance Computing & Simulation (HPCS), 2017](https://conferences.telecom-bretagne.eu/turbocodes/home-2016/), July 2017, Genoa, Italy.
+<br>__, MRS Marques, GB Hacene, Rosar Kos Lassance, C., PH Horrein__  	Large-Scale Memory of Sequences Using Binary Sparse Neural Networks on GPU. [High Performance Computing & Simulation (HPCS), 2017](https://conferences.telecom-bretagne.eu/turbocodes/home-2016/), July 2017, Genoa, Italy.
 
 `2016`
-__Tigreat, P., Rosar Kos Lassance, C., Jiang, X., Gripon, V., Berrou, C.__  	Assembly output codes for learning neural networks. [9th International Symposium on Turbo Codes and Iterative Information Processing](https://conferences.telecom-bretagne.eu/turbocodes/home-2016/), Sept 2016, Brest, France.
+<br>__Tigreat, P., Rosar Kos Lassance, C., Jiang, X., Gripon, V., Berrou, C.__  	Assembly output codes for learning neural networks. [9th International Symposium on Turbo Codes and Iterative Information Processing](https://conferences.telecom-bretagne.eu/turbocodes/home-2016/), Sept 2016, Brest, France.
 
 
 `2015`
-__Gambs, S., Rosar Kos Lassance, C., Onete, C.__  The Not-so-distant Future: Distance-Bounding Protocols on Smartphones. [14th Smart Card Research and Advanced Application Conference](https://wiki.crypto.rub.de/cardis15/index.html), Nov 2015, Bochum, Germany. (Authors in alphabetical order)
+<br>__Gambs, S., Rosar Kos Lassance, C., Onete, C.__  The Not-so-distant Future: Distance-Bounding Protocols on Smartphones. [14th Smart Card Research and Advanced Application Conference](https://wiki.crypto.rub.de/cardis15/index.html), Nov 2015, Bochum, Germany. (Authors in alphabetical order)
 
 
 ## Technical skills
