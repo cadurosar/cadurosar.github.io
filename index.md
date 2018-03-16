@@ -3,7 +3,7 @@ layout: cv
 title: Carlos Eduardo Rosar Kos Lassance
 ---
 
-Short version(résumé): 
+Résumé: 
 [english]({{ site.url }}/generate_cv/Lassance_resume_english.pdf)
 |
 [french]({{ site.url }}/generate_cv/Lassance_resume_francais.pdf)
@@ -12,13 +12,13 @@ Short version(résumé):
 
 ## Currently ##
 
-Last semester computer engineering undergrad student at PUC-Rio and intern at LEARN
+PHD Student at IMT Atlantique, with the theme "Intricate Learning and Storing in Deep Neural Networks", under the supervision of [Vincent Gripon](http://www.vincent-gripon.com/) and [Michel Jezequel](http://perso.telecom-bretagne.eu/micheljezequel/)
 
-## Experience ##
+## Professional Experience ##
 
-`01/2017-` - Intern at LEARN developping software with Python
+<br>`01/2017-07/2017` - Intern at the LEARN laboraty at PUC-Rio, developping software with Python for BTG Pactual
 
-`09/2015-09/2016` - R&D Engineer in neural networks at Télécom Bretagne in NEUCOD team
+<br>`09/2015-09/2016` - R&D Engineer in neural networks at Télécom Bretagne in NEUCOD team
 
 R&D Engineer at Télécom Bretagne in NEUCOD team under the supervision of Claude Berrou, working mostly with artificial and clique-based neural networks.
 
@@ -32,16 +32,27 @@ During this period I studied distance-bounding protocols and implemented a proof
 
 In my time at Labbio/BioBD I worked mostly developing apps in Java and PHP for database migration and management systems 
 
+## Teaching Experience ##
+
+<br>`09/2016-06/2017` - Teaching assistant at PUC-Rio for the [databases 101 course](http://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=INF1383).
+
+<br>`01/2012-08/2013, 09/2016-06/2017` - Teaching assistant at PUC-Rio for the [databases 101 course](http://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=INF1383).
+
 
 ## Education ##
 
-`2014-15`
+<br>`2017-20`
+PHD Student at IMT Atlantique, with the theme "Intricate Learning and Storing in Deep Neural Networks", under the supervision of [Vincent Gripon](http://www.vincent-gripon.com/) and [Michel Jezequel](http://perso.telecom-bretagne.eu/micheljezequel/)
+
+<br>`2014-15`
 MSc in Informatic Research from Télécom Bretagne: [Track: Mobile and Communicating Object-Based Systems](http://master.irisa.fr/index.php/en/). Thesis: [Distance bounding protocols on smartphones]({{ site.url }}/rapport.pdf)
 
 <br>`2010-17`
 BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretagne and PUC-RIO (One year break working as R&D Engineer between 2015 and 2016.)
 
 ## Publications
+
+[Google Scholar Profile]()
 
 `2016`
 __Tigreat, P., Rosar Kos Lassance, C., Jiang, X., Gripon, V., Berrou, C.__  	Assembly output codes for learning neural networks. [9th International Symposium on Turbo Codes and Iterative Information Processing](https://conferences.telecom-bretagne.eu/turbocodes/home-2016/), Sept 2016, Brest, France.
