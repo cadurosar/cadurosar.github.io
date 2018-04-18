@@ -19,7 +19,7 @@ PHD Student at IMT Atlantique, with the theme "Intricate Learning and Storing in
 <br>`09/2017-09/2020` - PHD Student at IMT Atlantique
 
 
-<br>`01/2017-07/2017` - Intern at the LEARN laboraty at PUC-Rio
+<br>`01/2017-07/2017` - Intern at the LEARN laboratory at PUC-Rio
 
 Worked in the development of the first version of the [BTG Pactual Robo Advisor](https://youtu.be/WNrkHfMsYyk?t=61)
 
@@ -29,15 +29,19 @@ R&D Engineer at Télécom Bretagne in NEUCOD team under the supervision of Claud
 
 <br>`03/2015-09/2015` - Intern at INRIA/Centrale Supéléc in CIDRE team under the supervision of Sébastien Gambs and Cristina Onete. 
 
-During this period I studied distance-bounding protocols and implemented a proof of concept in Android that got published in CARDIS 2015 and was the main part of my MSc thesis.  
+Studied distance-bounding protocols and implemented a proof of concept in Android that got published in CARDIS 2015 and was the main part of my MSc thesis.  
 
 <br>`01/2012-08/2013` - Teaching assistant at PUC-Rio for the [databases 101 course](http://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=INF1383).
 
 <br>`08/2011-08/2013` - Internship at Labbio/BioBD a Bio-informatics and databases research lab at PUC-RIO. 
 
-In my time at Labbio/BioBD I worked mostly developing apps in Java and PHP for database migration and management systems 
+Worked mostly developing apps in Java and PHP for database migration and management systems. 
 
 ## Teaching Experience ##
+
+<br>`10/2017-` - 2 courses as substitute teacher for TC131E(Pyrat: Algorithms and Programming), 4 courses and organization of the PyRat Challenge for ELU502(Deep Learning), and full participation (7 courses) in ELU616(Artificial Intelligence) at [IMT-Atlantique](http://www.imt-atlantique.fr/fr)  
+
+<br>`08/2017` - 3 tutorials for the INF1395(Machine Learning) course at PUC-Rio, concerning  [Theano, Pandas and Perceptron](https://github.com/cadurosar/INF1395).  
 
 <br>`01/2012-08/2013, 09/2016-06/2017` - Teaching assistant at PUC-Rio for the [databases 101 course](http://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=INF1383).
 
@@ -55,7 +59,7 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 
 ## Publications
 
-[Google Scholar Profile]()
+[Google Scholar Profile](https://scholar.google.fr/citations?user=UnUYWp0AAAAJ)
 
 `2018`
 <br>Coming soon
@@ -90,7 +94,7 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 
 BRAFITEC scolarship (MSc fees)
 
-##### Last updated: April 2017
+##### Last updated: April 2018
 
 
 <!---
