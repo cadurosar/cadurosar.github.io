@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.23)  18 APR 2018 13:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.23)  3 JUN 2018 20:58
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**Lassance_resume_english.tex
-(./Lassance_resume_english.tex
+**/home/crosarko/cadurosar.github.io/generate_cv/Lassance_resume_english
+(/home/crosarko/cadurosar.github.io/generate_cv/Lassance_resume_english.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (./moderncv.cls
@@ -1050,21 +1051,21 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `Lassance_resume_english.out' has not changed
 .
-(rerunfilecheck)             Checksum: BC1CB7B898F744AC4FAED0981DC6E749;586.
+(rerunfilecheck)             Checksum: 3DF9328FA3668CCA2639C73B13D7751F;662.
  ) 
 Here is how much of TeX's memory you used:
- 18899 strings out of 493029
- 313544 string characters out of 6136234
+ 18900 strings out of 493029
+ 313683 string characters out of 6136234
  387751 words of memory out of 5000000
  22252 multiletter control sequences out of 15000+600000
  49001 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,11n,45p,10501b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,11n,45p,10544b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb>
-Output written on Lassance_resume_english.pdf (1 page, 151971 bytes).
+Output written on Lassance_resume_english.pdf (1 page, 151593 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream

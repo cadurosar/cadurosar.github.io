@@ -39,7 +39,7 @@ Worked mostly developing apps in Java and PHP for database migration and managem
 
 ## Teaching Experience ##
 
-<br>`10/2017-` - 2 courses as substitute teacher for TC131E(Pyrat: Algorithms and Programming), 4 courses and organization of the PyRat Challenge for ELU502(Deep Learning), and full participation (7 courses) in ELU616(Artificial Intelligence) at [IMT-Atlantique](http://www.imt-atlantique.fr/fr)  
+<br>`10/2017-` - Substitute teacher (6 hours) for TC131E(Pyrat: Algorithms and Programming), 7.5 hours of courses and organization of the PyRat Challenge for ELU502(Deep Learning), and full participation (21 hours) in ELU616(Artificial Intelligence) at [IMT-Atlantique](http://www.imt-atlantique.fr/fr)  
 
 <br>`08/2017` - 3 tutorials for the INF1395(Machine Learning) course at PUC-Rio, concerning  [Theano, Pandas and Perceptron](https://github.com/cadurosar/INF1395).  
 
@@ -62,10 +62,15 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 [Google Scholar Profile](https://scholar.google.fr/citations?user=UnUYWp0AAAAJ)
 
 `2018`
-<br>Coming soon
+<br>__, Lassance, Carlos Eduardo Rosar Kos, Vincent Gripon and Antonio Ortega__. "Laplacian Power Networks: Bounding Indicator Function Smoothness for Adversarial Defense." Submitted to NIPS 2018, Available at https://arxiv.org/pdf/1805.10133.
+
+<br>__, Lassance, Carlos Eduardo Rosar Kos, Vincent Gripon and Antonio Ortega__. "Predicting Under and Overfitting in Deep Neural Networks using Graph Smoothness" Graph Signal Processing, June 2018, Lausanne, Switzerland.
+
+
+<br>__, Lassance, Carlos Eduardo Rosar Kos, Jean-Charles Vialatte, and Vincent Gripon__. "Matching Convolutional Neural Networks without Priors about Data." IEEE Data Science Workshop, June 2018, Lausanne, Switzerland. Available at https://arxiv.org/abs/1802.09802
 
 `2017`
-<br>__, MRS Marques, GB Hacene, Rosar Kos Lassance, C., PH Horrein__  	Large-Scale Memory of Sequences Using Binary Sparse Neural Networks on GPU. [High Performance Computing & Simulation (HPCS), 2017](https://conferences.telecom-bretagne.eu/turbocodes/home-2016/), July 2017, Genoa, Italy.
+<br>__, Marques, MRS , Hacene, GB , Rosar Kos Lassance, C., PH Horrein__  	Large-Scale Memory of Sequences Using Binary Sparse Neural Networks on GPU. [High Performance Computing & Simulation (HPCS), 2017](https://conferences.telecom-bretagne.eu/turbocodes/home-2016/), July 2017, Genoa, Italy.
 
 `2016`
 <br>__Tigreat, P., Rosar Kos Lassance, C., Jiang, X., Gripon, V., Berrou, C.__  	Assembly output codes for learning neural networks. [9th International Symposium on Turbo Codes and Iterative Information Processing](https://conferences.telecom-bretagne.eu/turbocodes/home-2016/), Sept 2016, Brest, France.
@@ -94,7 +99,7 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 
 BRAFITEC scolarship (MSc fees)
 
-##### Last updated: April 2018
+##### Last updated: June 2018
 
 
 <!---
