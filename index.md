@@ -49,7 +49,7 @@ Worked mostly developing apps in Java and PHP for database migration and managem
 ## Education ##
 
 <br>`2017-20`
-PHD Student at IMT Atlantique, with the theme "Intricate Learning and Storing in Deep Neural Networks", under the supervision of [Vincent Gripon](http://www.vincent-gripon.com/) and [Michel Jezequel](http://perso.telecom-bretagne.eu/micheljezequel/)
+PHD Student at IMT Atlantique, with the theme "Intricate Learning and Storing in Deep Neural Networks", under the supervision of [Vincent Gripon](http://www.vincent-gripon.com/) and [Michel Jezequel](http://perso.telecom-bretagne.eu/micheljezequel/). During my 1st year I've done the [Coursera Deep Learning course](https://www.coursera.org/account/accomplishments/specialization/certificate/ZJGPV9U2NPFZ)
 
 <br>`2014-15`
 MSc in Informatic Research from Télécom Bretagne: [Track: Mobile and Communicating Object-Based Systems](http://master.irisa.fr/index.php/en/). Thesis: [Distance bounding protocols on smartphones]({{ site.url }}/rapport.pdf)
