@@ -9,8 +9,8 @@ Résumé:
 [french]({{ site.url }}/generate_cv/Lassance_resume_francais.pdf)
 |
 [portuguese]({{ site.url }}/generate_cv/Lassance_resume_portugues.pdf)
-
-[Google Scholar Profile](https://scholar.google.fr/citations?user=UnUYWp0AAAAJ)
+|
+[Google Scholar](https://scholar.google.fr/citations?user=UnUYWp0AAAAJ)
 
 ## Currently ##
 
