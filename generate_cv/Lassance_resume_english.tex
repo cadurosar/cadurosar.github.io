@@ -1,85 +1,102 @@
-%% start of file `template.tex'.
-%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
-%
-% This work may be distributed and/or modified under the
-% conditions of the LaTeX Project Public License version 1.3c,
-% available at http://www.latex-project.org/lppl/.
+\documentclass[11pt,a4paper]{moderncv}
+
+\moderncvtheme[blue]{classic} 
+\usepackage[utf8]{inputenc}  %Windows 
+
+%\usepackage[scale=0.975]{geometry}
+\usepackage[top=0.5cm, bottom=0.5cm, left=0.5cm, right=0.5cm]{geometry}
+\usepackage{graphicx}
+
+\firstname{Carlos}
+\familyname{Lassance}
+\title{Ph.D. student {\small ``Graphs for Deep Learning Latent Representations''}}       
+\address{18 Rue de la porte}{29200 Brest}   
+\mobile{06.41.40.97.00}    
+%\phone{}                
+%\fax{Votre Fax}                      
+\email{cadurosar@gmail.com}  
+\extrainfo{\url{cadurosar.github.io/}}
+\photo[90pt]{bio-photo.png}
+\makeatletter
+\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+\makeatother
+
+\usepackage{multibib}
+\newcites{book,misc}{{Books},{Others}}
+
+\nopagenumbers{}            
+\usepackage[inline]{enumitem}
+
+\newlist{inlinelist}{enumerate*}{1}
+\setlist*[inlinelist,1]{%
+  label=(\roman*),
+}
+
+\newlist{inlineitems}{enumerate*}{1}
+\setlist*[inlineitems,1]{%
+  label=$\bullet$,
+}
 
 
-\documentclass[10pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
-% moderncv themes
-\moderncvstyle{oldstyle}                           % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{grey}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
-%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
-%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
 
-% character encoding
-\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
-%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
 
-% adjust the page margins
-\usepackage[scale=0.76]{geometry}
-%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
-%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
 
-% personal data
-\name{Carlos E.}{R. K. Lassance}
-\title{}                               % optional, remove / comment the line if not wanted
-\address{18, Rue de la Porte}{29200 Brest}{France}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
-\phone[mobile]{+33 6 41 40 97 00}                   % optional, remove / comment the line if not wanted
-\email{cadurosar@gmail.com}                               % optional, remove / comment the line if not wanted
-\homepage{cadurosar.github.io/}
-\photo[100pt][0.4pt]{bio-photo}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
 
-% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
-%\makeatletter
-%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
-%\makeatother
-%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
-
-% bibliography with mutiple entries
-%\usepackage{multibib}
-%\newcites{book,misc}{{Books},{Others}}
-%----------------------------------------------------------------------------------
-%            content
-%----------------------------------------------------------------------------------
 \begin{document}
-%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
-%-----       resume       ---------------------------------------------------------
-\makecvtitle
+\maketitle
 
-\section{Education}
-\cventry{2017--2020}{PHD on Informatics}{IMT Atlantique}{Brest}{}{Theme: Intricate Learning and Storing in Deep Neural Networks}  
-\cventry{2014--2015}{MSc Informatics}{Télécom-Bretagne}{Brest}{}{Track: Mobile and Communicating Object-Based Systems}  % arguments 3 to 6 can be left empty
-\cventry{2010--2017}{BSc Computer engineering}{\newline{}Pontíficia Universidade Católica (PUC), Rio de Janeiro\newline{}Télécom-Bretagne, Brest}{}{}{}
 
-\section{Experience}
-\cventry{01-07/2017}{Internship}{Learn }{PUC-Rio}{}{Robot-Advisor Software development (Python)}%
-\cventry{09/2015-2016}{R\&D Engineer}{Neucod team at Télécom Bretagne}{}{}{Research in neural networks}%
-\cventry{03--09/2015}{Internship}{CIDRE team at CentraleSupélec/Inria}{}{}{Subject: Distance-bounding protocols on smartphones.}%
-%\cventry{2011--2013}{Internship}{Labbio/BioBD \newline{}Bio-informatics research lab at PUC-Rio}{}{}{Software and website development (Java and PHP) %and server maintenance.}%
-\cventry{2012--2013 / 2016--2017}{Teaching assistant}{PUC-Rio}{}{}{ Databases teaching assistant at PUC-RIO. }%
 
-\section{Languages}
-\cvitemwithcomment{Native}{Portuguese}{}
-\cvitemwithcomment{Fluent}{English,French}{}
+\vspace{-0.7cm}
 
-\section{Technical skills}
-\cvitem{}{SQL, Python,Git,Pytorch, Keras, Tensorflow, Artificial Intelligence}
+\section{Professional Experiences}
 
-\section{Most Relevant Publications}
+\cventry{10/2017-10/2020}{Ph.D. {\small Graphs for Deep Learning Latent Representations}}{IMT Atlantique - BrAIn}{Brest}{}{Ph.D. program in the intersection of Graph Signal Processing (GSP) and Machine Learning. During this three years period, I've interned at the Mila research lab in Montreal for one year and was a visiting scholar at the universities of South California (USA), Rochester (USA) and Adelaide (Australia).}
 
-\cvitem{}{\textbf{Rosar Kos Lassance, C., Viallate, J-C., Gripon, Vincent} . \textit{Matching Convolutional Neural Networks without Priors about Data} IEEE Data Science Workshop 2018}
-\cvitem{}{\textbf{Rosar Kos Lassance, C., Vincent Gripon and Antonio Ortega} . \textit{Predicting Under and Overfitting in Deep Neural Networks using Graph Smoothness.} Global Signal Processing 2018}
-\cvitem{}{\textbf{Tigreat, P., Rosar Kos Lassance, C., Jiang, X., Gripon, V., Berrou, C.} . \textit{Assembly output codes for learning neural networks.} 9th International Symposium on Turbo Codes and Iterative Information Processing}
+\cventry{01/2017-07/2017}{Internship}{PUC-Rio - Learn}{Rio de Janeiro}{}{Development of an asset allocation robot as a micro-service using Flask, deployed via Amazon cloud and integrated with Amazon Redshift database for BTG Pactual (Brazilian Investment Bank)}
+
+\cventry{10/2015-09/2016}{Research Engineer}{IMT Atlantique - Neucod}{Brest}{}{Development of clique-based associative memories in CUDA and of Deep Neural Networks (DNNs) for handwritten digit identification with Theano}
+
+\cventry{03/2015-09/2015}{Internship}{Centrale-Supelec - Inria - CIDRE}{Rennes}{}{Development of a proof-of-concept Android application and driver for NFC identification with distance bounding protocols for defense against man-in-the-middle NFC attacks}
+
+\cventry{08/2011-08/2013, 10/2016-10/2017}{Internship}{PUC-Rio - Labbio/BioBD}{PUC-Rio}{}{Development of a Java program to migrate an insurance database to a new schema and DBMS. Development of PHP websites for: \begin{inlinelist} \item the administration of a summer camp; \item Administration of social programs; \item university course registrations; \item dashboard for a twitter crawler; \item dashboard for the university's private bus.\end{inlinelist}}
+
+
+\section{Teaching Experiences}
+\cvline{IMT-Atlantique}{27.5 hours of teaching for the Algorithmics and Discrete Mathematics course, 21 hours of teaching for the Artificial Intelligence course and 7.5 hours of teaching for the Deep Learning course.}
+\cvline{Mooc}{Creation of jupyter notebook exercises for the Advanced Algorithmics and Graph Theory with Python course on edX \footnotesize{(\url{https://www.edx.org/course/advanced-algorithmics-and-graph-theory-with-python}})}
+\cvline{PUC-Rio}{Teaching assistant for the databases course for 5 semesters, creation of 3 tutorials for the the Machine Learning course and worked on the creation of \emph{Pandas} exercises for the Applied Computing course}
+
+\section{Ph.D. Graphs for Deep Learning Latent Representations}
+
+\cvline{Goal}{Better understand the intermediate representations of DNNs and use that knowledge to improve them.}
+\cvline{Most relevant projects}{\vspace{-0.5cm}
+\begin{itemize}[topsep=-2pt,itemsep=-1ex,partopsep=1ex,parsep=1ex,label=$\bullet$]
+    \item \hspace{-0.3cm} Matching CNN without priors about data {\footnotesize (IEEE DSW2018 \url{arxiv.org/pdf/1802.09802})};
+    \item \hspace{-0.3cm} Increasing the robustness of DNNs {\footnotesize (Colaboration with USC. Archival only: \url{arxiv.org/abs/1805.10133})};
+    \item \hspace{-0.3cm} Evaluating robustness of DNNs {\footnotesize (Colaboration with Mila and USC. IEEE DSW2019 \url{arxiv.org/abs/1909.05095})};
+    \item \hspace{-0.3cm} Improving visual based localization with graphs {\footnotesize (Colaboration University of Adelaide. Submitted to ICRA2020)};
+    \item \hspace{-0.3cm} Neural network compression with graph distillation {\footnotesize (Colaboration with Mila and USC, Submitted to ICASSP2020)}.
+\end{itemize}}
+
+\vspace{-0.7cm}
+
+\section{Formation}
+
+\cventry{2017-2020}{Ph.D.}{IMT Atlantique (Télécom Bretagne)}{Brest}{Title: {\small Graphs for Deep Learning Latent Representations}}{} 
+
+\cventry{2010-2017}{BSc/MEng in Computer Engineering}{PUC-Rio/Télécom Bretagne}{Double degree}{}{} 
+
+\cventry{2014-2015}{MSc in Informatics}{Télécom Bretagne}{{\small Track: Mobile and Communicating Object-Based Systems}}{}{}
+
+
+\section{Technical and Linguistic Skills}
+\cvline{Programming}{\begin{inlineitems}\item Python \item SQL \item Git \item Java \item PHP \item C\end{inlineitems}}
+\cvline{Frameworks}{\begin{inlineitems}\item Pytorch \item Pandas \item Numpy \item scikit-learn \item TensorFlow \item Flask\end{inlineitems}}
+\cvline{Languages}{\begin{inlineitems} \item Portuguese: Native \item English: Fluent \item  French: Fluent\end{inlineitems}}
 
 \section{Interests}
-\cvitem{Informatics}{Artificial inteligence, neural networks and GSP}
-\cvitem{Leisure}{Video-Games, Football}
+\cvline{Informatics}{Artificial Intelligence, neural networks and Graph Signal Processing (GSP).}
+\cvline{Others}{Soccer, Basketball, Video-games}
 
-\clearpage
-%\clearpage\end{CJK*}                              % if you are typesetting your resume in Chinese using CJK; the \clearpage is required for fancyhdr to work correctly with CJK, though it kills the page numbering by making \lastpage undefined
 \end{document}
-
-
-%% end of file `template.tex'.
