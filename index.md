@@ -4,11 +4,11 @@ title: Carlos Eduardo Rosar Kos Lassance
 ---
 
 Résumé: 
-[english]({{ site.url }}/generate_cv/Lassance_resume_english.pdf)
+[english](generate_cv/Lassance_resume_english.pdf)
 |
-[french]({{ site.url }}/generate_cv/Lassance_resume_francais.pdf)
+[french](generate_cv/Lassance_resume_francais.pdf)
 |
-[portuguese]({{ site.url }}/generate_cv/Lassance_resume_portugues.pdf)
+[portuguese](generate_cv/Lassance_resume_portugues.pdf)
 |
 [Google Scholar](https://scholar.google.fr/citations?user=UnUYWp0AAAAJ)
 
@@ -95,7 +95,7 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 `2018`
 <br>**Lassance, Carlos Eduardo Rosar Kos, Vincent Gripon and Antonio Ortega__. "Predicting Under and Overfitting in Deep Neural Networks using Graph Smoothness" Graph Signal Processing Workshop, June 2018, Lausanne, Switzerland. [[Paper]]({{ site.url }}/papers/GSP2018.pdf) [[Presentation]]({{ site.url }}/presentations/GSP2018.pdf)**
 
-<br>**Lassance, C. E. R. K., Vialatte, J. C., & Gripon, V. (2018, June). Matching Convolutional Neural Networks without Priors about Data. In 2018 IEEE Data Science Workshop (DSW) (pp. 234-238). [[Paper]](https://arxiv.org/abs/1802.09802) [[Poster]]({{ site.url }}/poster/DSW2018.pdf)**
+<br>**Lassance, C. E. R. K., Vialatte, J. C., & Gripon, V. (2018, June). Matching Convolutional Neural Networks without Priors about Data. In 2018 IEEE Data Science Workshop (DSW) (pp. 234-238). [[Paper]](https://arxiv.org/abs/1802.09802) [[Poster]]({{ site.url }}/posters/DSW2018.pdf)**
 
 <br>**Grelier, N., Lassance, C. E. R. K., Dupraz, E., & Gripon, V. (2018, November). Graph-Projected Signal Processing. In 2018 IEEE Global Conference on Signal and Information Processing (GlobalSIP) (pp. 763-767). IEEE. [[Paper]](https://ieeexplore.ieee.org/document/8646674) [[Poster]]({{ site.url }}/posters/GlobalSIP2018.pdf)**
 
