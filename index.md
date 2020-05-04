@@ -18,8 +18,8 @@ PHD Student at IMT Atlantique, with the theme "Graphs for Deep Learning Latent R
 * Matching CNN without priors about data. Published at [IEEE DSW 2018](http://arxiv.org/pdf/1802.09802)
 * Increasing the robustness of DNNs. Colaboration with USC. [Arxiv only](http://arxiv.org/abs/1805.10133)
 * Evaluating robustness of DNNs. Colaboration with Mila and USC. Published at [IEEE DSW 2019](http://arxiv.org/abs/1909.05095)
-* Improving visual based localization using graphs. Colaboration with University of Adelaide. Submitted to ICRA 2020)
-* Neural network compression with graph distillation. Colaboration with Mila and USC, Submitted to ICASSP 2020)}
+* Neural network compression with graph distillation. Colaboration with Mila and USC, [Published at ICASSP 2020](https://ieeexplore.ieee.org/document/9053986)
+* Improving visual based localization using graphs. Colaboration with University of Adelaide. Submitted to IROS 2020)
 
 
 ## Professional Experience ##
@@ -74,6 +74,10 @@ MSc in Informatic Research from Télécom Bretagne: [Track: Mobile and Communica
 BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretagne and PUC-RIO (One year break working as R&D Engineer between 2015 and 2016.)
 
 ## Publications
+
+`2020`
+<br>**C. Lassance, V. Gripon, J. Tang and A. Ortega, "Structural Robustness for Deep Learning Architectures,"  ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9053986) [[Presentation]](https://www.dropbox.com/s/xamj0v8oegrhkde/GKD%20-%20ICASSP.mp4?dl=0)**
+
 
 `2019`
 <br>**C. Lassance, V. Gripon, J. Tang and A. Ortega, "Structural Robustness for Deep Learning Architectures," 2019 IEEE Data Science Workshop (DSW), Minneapolis, USA, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8755564) [[Presentation]](presentations/DSW2019.pdf)**
