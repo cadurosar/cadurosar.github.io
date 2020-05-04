@@ -76,7 +76,7 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 ## Publications
 
 `2020`
-<br>**C. Lassance, V. Gripon, J. Tang and A. Ortega, "Structural Robustness for Deep Learning Architectures,"  ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9053986) [[Presentation]](https://www.dropbox.com/s/xamj0v8oegrhkde/GKD%20-%20ICASSP.mp4?dl=0)**
+<br>**C. Lassance, M. Bontonou, G.B. Hacene, V. Gripon, J. Tang and A. Ortega, "Structural Robustness for Deep Learning Architectures,"  ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9053986) [[Presentation]](https://www.dropbox.com/s/xamj0v8oegrhkde/GKD%20-%20ICASSP.mp4?dl=0)**
 
 
 `2019`
