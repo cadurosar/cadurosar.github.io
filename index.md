@@ -15,9 +15,9 @@ PHD Student at IMT Atlantique, with the theme "Graphs for Deep Learning Latent R
 * Matching CNN without priors about data. Published at [IEEE DSW 2018](http://arxiv.org/pdf/1802.09802)
 * Increasing the robustness of DNNs. Colaboration with USC. [Arxiv only](http://arxiv.org/abs/1805.10133)
 * Evaluating robustness of DNNs. Colaboration with Mila and USC. Published at [IEEE DSW 2019](http://arxiv.org/abs/1909.05095)
-* Neural network compression with graph distillation. Colaboration with Mila and USC, [Published at ICASSP 2020](https://ieeexplore.ieee.org/document/9053986)
-* Improving visual based localization using graphs. Colaboration with University of Adelaide. Submitted to IROS 2020.
-* Graph topology inference benchmarks for machine learning. Colaboration with the University of Rochester. Submitted to MLSP 2020.
+* Neural network compression with graph distillation. Colaboration with Mila and USC, [Published at ICASSP 2020](https://ieeexplore.ieee.org/document/9053986) [Video presentation available](https://www.youtube.com/watch?v=oCPA9zNs5N0)
+* Graph topology inference benchmarks for machine learning. Colaboration with the University of Rochester. To be presented at MLSP2020.
+* Improving visual based localization using graphs. Colaboration with University of Adelaide. 
 
 
 ## Professional Experience ##
@@ -74,7 +74,7 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 ## Publications
 
 `2020`
-<br>**C. Lassance, M. Bontonou, G.B. Hacene, V. Gripon, J. Tang and A. Ortega, "Structural Robustness for Deep Learning Architectures,"  ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9053986) [[Presentation]](https://www.dropbox.com/s/xamj0v8oegrhkde/GKD%20-%20ICASSP.mp4?dl=0)**
+<br>**C. Lassance, M. Bontonou, G.B. Hacene, V. Gripon, J. Tang and A. Ortega, "Structural Robustness for Deep Learning Architectures,"  ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9053986) [[Presentation]](https://www.youtube.com/watch?v=oCPA9zNs5N0)**
 
 
 `2019`
