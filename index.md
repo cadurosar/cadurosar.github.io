@@ -4,7 +4,7 @@ title: Carlos Eduardo Rosar Kos Lassance
 ---
 
 Résumé: 
-[english](generate_cv/Lassance_resume_english.pdf)|
+[english](generate_cv/Lassance_resume_english.pdf)
 <!-- [french](generate_cv/Lassance_resume_francais.pdf) |-->
 <!-- [portuguese](generate_cv/Lassance_resume_portugues.pdf) |-->
 [Google Scholar](https://scholar.google.fr/citations?user=UnUYWp0AAAAJ)
@@ -74,7 +74,8 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 ## Publications
 
 `2020`
-<br>**C. Lassance, M. Bontonou, G.B. Hacene, V. Gripon, J. Tang and A. Ortega, "Structural Robustness for Deep Learning Architectures,"  ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9053986) [[Presentation]](https://www.youtube.com/watch?v=oCPA9zNs5N0)**
+<br>**C. Lassance, M. Bontonou, G.B. Hacene, V. Gripon, J. Tang and A. Ortega, "Deep Geometric Knowledge Distillation with Graphs
+", Barcelona, Spain, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9053986) [[Presentation]](https://www.youtube.com/watch?v=oCPA9zNs5N0)**
 
 
 `2019`
@@ -131,7 +132,7 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 
 BRAFITEC scolarship (MSc fees)
 
-##### Last updated: November 2019
+##### Last updated: July 2020
 
 
 <!---
