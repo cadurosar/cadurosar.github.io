@@ -13,7 +13,8 @@ Résumé:
 
 Research Scientist at Naver Labs Europe, on the Neural Search project. Mainly working on information retrieval with sparse neural retrievers:
 
-* Consolidation of SPLADE as an effective and efficient sparse neural retriever: [Splade++](https://arxiv.org/pdf/2205.04733.pdf), [Efficiency study for SPLADE](https://arxiv.org/pdf/2207.03834.pdf), [TREC2021 participation](https://europe.naverlabs.com/wp-content/uploads/2022/05/NLE-SPLADE-at-TREC-1.pdf), [SPLADE repository](https:/github.com/naver/splade) ,[Reproducibility via Pyserini](https://github.com/castorini/pyserini/blob/master/docs/experiments-spladev2.md)
+* Multilingual neural retrieval: [First place in both tracks @ WSDM 2023 CUP - MIRACL (article coming soon)]() , [Training SPLADE from scratch in Arabic, Japanese and Russian](https://arxiv.org/pdf/2301.10444.pdf), [TREC-NeuCLIR 2022 participation (article coming soon)]()
+* Consolidation of SPLADE as an effective and efficient sparse neural retriever: [Splade++](https://arxiv.org/pdf/2205.04733.pdf), [Efficiency study for SPLADE](https://arxiv.org/pdf/2207.03834.pdf), [TREC-DL2021 participation](https://europe.naverlabs.com/wp-content/uploads/2022/05/NLE-SPLADE-at-TREC-1.pdf), [TREC-DL2022 participation](), [SPLADE repository](https:/github.com/naver/splade) ,[Reproducibility via Pyserini](https://github.com/castorini/pyserini/blob/master/docs/experiments-spladev2.md), [Learning adapters for SPLADE (accepted @ ECIR23 coming soon)]
 * Improving the efficiency of learned representations for retrieval: [TLDR](https://openreview.net/forum?id=86fhqdBUbx), [ColBERT pruning](https://arxiv.org/abs/2112.06540), [CCSA](https://dl.acm.org/doi/abs/10.1145/3404835.3463066)
 
 ## Professional Experience ##
@@ -123,7 +124,7 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 
 ## Technical skills
 
-* Python (Incluiding frameworks such as Keras and Pytorch)
+* Python (Incluiding frameworks such as Transformers and Pytorch)
 * Java
 * Machine learning
 * LaTeX
@@ -140,7 +141,7 @@ BSc/MEng in Computer Engineering: Double-degree program between Télécom Bretag
 
 BRAFITEC scolarship (MSc fees)
 
-##### Last updated: October 2022
+##### Last updated: February 2023
 
 
 <!---
